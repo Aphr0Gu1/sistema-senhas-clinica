@@ -47,7 +47,7 @@ sistema-senhas-clinica/
 É necessário ter o compilador GCC instalado.
 
 ```bash
-gcc src/main.c src/clinica.c -o clinica
+gcc scr/main.c src/clinica.c -o clinica
 ```
 
 ## ▶️ Como executar no Windows
